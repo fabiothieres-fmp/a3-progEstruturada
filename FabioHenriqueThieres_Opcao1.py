@@ -57,6 +57,6 @@ while True:
         break
 
 
-print('Desenvolvido por: Fabio Thieres e Duda')
+print('Desenvolvido por: Fabio Thieres')
 print('Github: fabiothieres')
 print('LinkedIn: Fabio Thieres')
