@@ -55,6 +55,10 @@ while True:
     elif op == 6:
         print('Até mais! ')
         break
+    else:
+        print('Opção inválida! Digite um número de 1 a 6.')
+
+
 
 
 print('Desenvolvido por: Fabio Thieres')
